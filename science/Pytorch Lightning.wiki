@@ -1,0 +1,53 @@
+# Pytorch Lightning #
+
+A [*lightweight*](https://github.com/PyTorchLightning/pytorch-lightning) PyTorch
+wrapper for ML Researchs. It offer simplifications for complex models. 
+
+![model simplification][torch_lightning.png]
+
+
+## Installation ##
+
+```shell
+pip install pytorch-lightning
+```
+
+
+## Lighgning Module##
+
+The `Lightning module` provide a structure on how to define the **five** stages
+for the training process.
+
+```python
+from pytorch_lightning.core.lightning import LightningModule
+```
+
+This class define a **base** class for any model. Similar to **pytorch** Module,
+this model also contains the `__init__` and `forward` methods. But we will add
+three additional methodes to define the tranining process.
+
+The additional methods are as follows:
+
+1. `train_dataloader`: which define the process of getting the data as a
+   `DataLoder` pytorch classe.
+   
+2. `configure_optimizers`: which configure and return an `optimizer` and a
+   `scheduler ` for the learning rate.
+
+3. `training_step(batch, batch_idx)`: define how to compute the loss(not batckawd) the loss. It
+   must return a **dictionary** with a least a **lost** key.
+
+Once it's defined all the training could be lanched with as simple
+
+
+```python
+if __name__ == "__main__":
+
+    Net = Mnist_Ligh()
+
+    #create a lightning trainer
+    trainer =  Trainer()
+    trainer.fit(Net)
+```  
+
+

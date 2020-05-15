@@ -1,0 +1,17 @@
+#Compter Vision#
+
+I dream to become an expert on *Computer vision*. So I diceded, as a starting
+step, to finish a hard but fair course. I followed several of them including
+
+* [https://classroom.udacity.com/courses/ud810](Udacity introduction to computer vision)
+
+* [ https://www.cs.utoronto.ca/~fidler/teaching/2019Fall/CSC420.html]( Sanja : Understanding Images )
+
+But Now I'm following the **MIT** advance course
+[http://6.869.csail.mit.edu/fa19/schedule.html](MIT.6.869) which is more
+directed to learning and researcher.
+
+## CS 6.69 
+
+1. Introduction,  [Simple vision word](Simple vision word)
+

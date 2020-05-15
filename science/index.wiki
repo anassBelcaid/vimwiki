@@ -1,0 +1,17 @@
+# Contents
+  - [Becoming a better scientist #](#Becoming a better scientist #)
+
+# Becoming a better scientist #
+
+Here I'm again coming back to `vimwiki`, as I found **mandatory** to take
+careful notes for my finished course in order to deeping my understanding. I
+will stick with this system a least for the next **year** in order to juge the
+results. So without further loss of time.
+
+Let's gooo
+
+1. [Computer Vision](Computer Vision)
+2. [Probabilistic Graphical Models](Probabilistic Graphical Models)
+3. [Deep learning](Deep learning)
+4. [English](English)
+
