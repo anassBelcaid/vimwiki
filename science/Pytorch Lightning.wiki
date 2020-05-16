@@ -50,4 +50,11 @@ if __name__ == "__main__":
     trainer.fit(Net)
 ```  
 
+## Transfer learning ##
+
+Sometimes we want to use a `LightningModule` as a pre trained module. This is
+fine as **LIghtningModule** is a simple `torch.nn.Module`.
+
+
+
 

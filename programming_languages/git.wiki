@@ -1,0 +1,47 @@
+# Journe learning git #
+
+Main learning resource is the excellent book: [pro git](https://git-scm.com/book/en/v2)
+
+
+## Configuration ##
+
+- Configuration files for `git` can be found in the following order
+  
+  1. `/etc/gitconfig`
+  2. `~/.config/git/config`
+  3. `.git/config`: in the same repo folder
+  
+- We can show the configuration and the file where we get it by
+ 
+```shell
+git config --list --show-origin
+```
+
+- `git init `: to initialize a repository
+- `git rm --staged`: remove a file from the stagging area without deleting
+  from the filesystem.
+
+- `git mv file_from file_to`: to remove a file into another location
+
+- `git log --graph --decorate --oneline `: to show the log in graph form
+- `git log --since=2.weeks`: limit the logs since two weeks
+- other functions are:
+  - `--after --author --commmitter --grep`
+
+- `git commit --ammend`
+
+- `git reset HEAD file`: to **unstage** a file
+- `git checkout -- file` to reser to the last change
+[](-) `git remote -vv` : show the remote of the repository
+- `git remote add name link`: to add a remote called name with link
+- `git fetch name`: get the modification from the remote name
+- `git push remote branch`: to push a branch into the remote
+- `git remote show name`: show information about the remote name
+- `git remote rename old new`: rename a remote 
+- `git remote remove name`: remove the remote name
+- `git tag`: list the tags defined in the repository
+- `git tag -a tanemane -m "message"`: create a tag when commiting
+- `git show tag`: show the information for the tag
+- `git tag -a v.1.2  hash`: to tag an old commit given with a hash
+- `git push origin tag`: to push the tag which is not shared by default
+- `git tag -d tag`: delete a created tag
