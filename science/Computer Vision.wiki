@@ -14,4 +14,5 @@ directed to learning and researcher.
 ## CS 6.69 
 
 1. Introduction,  [Simple vision word](Simple vision word)
+2. [Image formation](Image formation)
 
