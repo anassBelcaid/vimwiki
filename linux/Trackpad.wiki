@@ -1,0 +1,13 @@
+# config for elan -track pad#
+
+- In order to configure the `tap to touch` option in your track pad
+
+```shell
+/etc/X11/xorg.conf.d/30-touchpad.conf
+Section "InputClass"
+        Identifier "MyTouchpad"
+        MatchIsTouchpad "on"
+        Driver "libinput"
+        Option "Tapping" "on"
+EndSection
+```

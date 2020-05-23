@@ -20,7 +20,6 @@ Words I learnt each day on a `vocabulary` session.
 
 ## 13 May 2020 ##
 
-
 | word       | Meaning                                             |
 |------------|-----------------------------------------------------|
 | suit       | outfit                                              |
@@ -87,10 +86,42 @@ Words I learnt each day on a `vocabulary` session.
 | weather    | refers to atmospheric conditions            |
 | hangars    | structures where aircraft can be stored     |
 | convulsive | convulsive movement is jerky and unsteady   |
-| solemn     | dignified and somber in manner of chracter  |
-| fervant    | show very strong feeling and enthusiasm     |
+| solemn     | dignified and somber in manner of character |
+| fervent    | show very strong feeling and enthusiasm     |
 | leniency   | lightening a penalty or excusing a chore    |
 | whittle    | pare or carve away                          |
 | careen     | move sideways or in an unsteady way         |
 | flag       | piece of cloth that represent a country     |
+
+
+## 19 May 2020 #
+| Word       | Meaning                                               |
+|------------|-------------------------------------------------------|
+| resent     | feel anger or bitterness toward it                    |
+| leniency   | mercifulness as a consequence of being tolerant       |
+| convulsive | jerky and uncontrollable, spasmodic                   |
+| whittle    | is to pare or carve away                              |
+| subject    | mean topic                                            |
+| solemn     | somber and grave mood                                 |
+| esteemed   | have people respect and known as wise and intelligent |
+| darn       | repair a garment by weaving thread across a hole      |
+| assume     | accept truth without  checking                        |
+| garbled    | message that makes no sense.                          |
+
+## 21 May 2020  ##
+
+
+| Word       | Meaning                                  |
+|------------|------------------------------------------|
+| leniency   | mercy, lessening of a punishment         |
+| countered  | responded                                |
+| convlusive | jerky and uncontrollable                 |
+| assume     | accept truth without checking            |
+| darned     | stitch small hole in a piece of clothing |
+| careen     | move sideways or in unsteady way         |
+| solemn     | somber                                   |
+| flag       | piece of cloth that represent a country  |
+| hangar     | place to repair an aircraft              |
+| taper      | gradually grow smaller or tighter        |
+
 

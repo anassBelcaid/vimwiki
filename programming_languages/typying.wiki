@@ -1,0 +1,16 @@
+# Adding type information #
+
+In `pep484`, python introduces type hints. which make it possible to
+also do static type checking of Python code.
+
+
+## simple example ##
+
+```python
+def headline(title: str, align: bool = True)-> str:
+  """
+  type hints
+  """
+  
+```
+

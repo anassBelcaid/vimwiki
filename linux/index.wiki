@@ -1,0 +1,7 @@
+#Linux Information and trick #
+
+
+## Configuration ##
+
+1. [Trackpad](Trackpad) 
+
