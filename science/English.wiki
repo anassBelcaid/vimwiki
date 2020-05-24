@@ -124,3 +124,19 @@ Words I learnt each day on a `vocabulary` session.
 | precede        | come before                                                                    |
 | fervent        | person or thing that shows very strong feeling or desire                       |
 | weather        | relative to atmospheric condition                                              |
+
+## 22 May 2020 ##
+
+
+| Word        | Meaning                                |
+|-------------|----------------------------------------|
+| esteemed    | honored                                |
+| fervant     | hot                                    |
+| weather     | relative to atmospheric                |
+| falter      | stammer                                |
+| content     | soothe                                 |
+| stall       | cause an engine sto stop               |
+| draped      | drape or fabric or material is the way |
+| amalgamated | unified                                |
+| darn        | patch                                  |
+| recluse     | solitary                               |
