@@ -1,3 +1,10 @@
+#Linux Information and trick #
+
+
+## Configuration ##
+
+1. [Trackpad](Trackpad) 
+
 ## Timezone and Network time protocol ## 
 
 | Command                            | Description                          |
@@ -6,4 +13,3 @@
 | `timedatectl list-timezones`       | List the avalaible times zones       |
 | `timedatectl set-timezone <zone> ` | set and sync with the given timezone |
 | `timedatectl set-ntp true`         | allow network sync                   |
-

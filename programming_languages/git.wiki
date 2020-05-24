@@ -45,3 +45,9 @@ git config --list --show-origin
 - `git tag -a v.1.2  hash`: to tag an old commit given with a hash
 - `git push origin tag`: to push the tag which is not shared by default
 - `git tag -d tag`: delete a created tag
+
+
+- check the [bfg cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+```bash
+bfg --strip-blobs-bigger-than 50M  my-repo.git
+```
