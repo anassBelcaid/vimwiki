@@ -1,0 +1,38 @@
+
+
+### Euler angles
+
+A 3D rotation matrix can be formed as the product of **three** rotation matrices
+around the axis $x, y,$ and $z$. This is a bad idea, as we must remember the
+order for the multiplications. Also, small changes in 3D rotations, could lead a
+substantial changes in those elementary matrices.
+
+### Axis/angle (Exponential twist)
+A rotation can be represented by a rotation axis $\hat{n}$ and an angle
+$\theta$ or equivalently by a 3D vector $w\theta \hat{n}$. In order to compute
+this rotation we first project the vector v  into the axis $\hat{n}$.
+
+{{$
+v_{||} = \hat{n}(\hat{n}.v) = (\hat(n)\hat{n}^T).v
+$}}
+
+#### Cross product matrix:
+
+{{$
+[n]_{x} = \begin{pmatrix} 
+0  & -n_z & n_y\\
+n_z &  0 &  -n_x\\
+n_y & n_x &  0
+\end{pmatrix}
+$}}
+
+
+Once we defined the cross product matrix, we could write the rotation matrix $R$
+around theta as
+
+{{$
+R(n, \theta) = I  + sin(\theta)[n]_{x} + (1-cos(\theta))[n]_{x}^2
+$}}
+
+which knows as the _Rodriguz_ formula.
+
