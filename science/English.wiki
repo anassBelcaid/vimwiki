@@ -213,8 +213,25 @@ Words I learnt each day on a `vocabulary` session.
 | fervent    | A person showing strong feeling                      |
 | leniency   | reduce a penalty                                     |
 | weather    | relative to atmospheric conditions                   |
-| assume     | accept a truth without chekcing                      |
+| assume     | accept a truth without checking                      |
 | darn       | repair a hole in a piece of cloth                    |
 | gruffness  | someone who's very abrupt, so blunt or curt          |
-| convlusive | sudden and violent, jerky and uncontrollable.        |
-| careen     | move sideways in unstready way                       |
+| convulsive | sudden and violent, jerky and uncontrollable.        |
+| careen     | move sideways in unsteady way                       |
+
+
+## 26 May 2020 ##
+
+
+| Word       | Meaning                                                 |
+|------------|---------------------------------------------------------|
+| ominous    | be careful , alarming                                   |
+| prompt     | if you're prompt you're in time                         |
+| esteemed   | honored                                                 |
+| hoarse     | hoarse voice is deep and rough and kind of hard to make |
+| taper      | gradually grow smaller, candle                          |
+| obstinacy  | quality of firmly sticking to your viewpoint or desires |
+| flag       | droop, or piece of clothing that represent a country    |
+| convulsive | jerky movement                                          |
+| esteemed   | esteem is about self respect and admiration             |
+| drape      | the drape of a fabric or material is the way it looks   |
