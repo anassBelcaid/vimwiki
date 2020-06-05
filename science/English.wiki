@@ -346,3 +346,18 @@ Words I learnt each day on a `vocabulary` session.
 | vulgar   | unrefined and unsophisticated              |
 | falter   | move hesitatingly                          |
 | scamper  | move in a hurry, frolic                    |
+
+## 05 June 2020 ##
+
+| Word      | Meaning                              |
+|-----------|--------------------------------------|
+| taper     | make gradually smaller or tighter    |
+| mindless  | witless                              |
+| grudging  | reluctant, do it with reluctance     |
+| bratwurst | fresh German sausage made using pork |
+| eloquent  | using words greatly                  |
+| frescoes  | piece of art                         |
+| strokes   | caresses                             |
+| weather   | relative to atmospheric conditions   |
+| mete out  | allot, distribute                    |
+| leniency  | lessening a punishment               |
