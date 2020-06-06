@@ -361,3 +361,18 @@ Words I learnt each day on a `vocabulary` session.
 | weather   | relative to atmospheric conditions   |
 | mete out  | allot, distribute                    |
 | leniency  | lessening a punishment               |
+
+## 06 June 2020 ##
+
+| word     | Meaning                                       |
+|----------|-----------------------------------------------|
+| shack    | hut, small rundown building used as a shelter |
+| vulgar   | unrefined and unsophisticated                 |
+| careen   | lurch, teetering from side to side            |
+| taper    | is gradually make tighter                     |
+| flag     | a piece of clothing that represent a country  |
+| mindless | senseless,                                    |
+| suit     | outfit                                        |
+| meanders | wander aimlessly                              |
+| stroke   | pat                                           |
+| grudging | reluctant                                     |
