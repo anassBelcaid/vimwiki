@@ -1,0 +1,11 @@
+#debbugers# 
+
+## Keys ##
+
+- *l*(ist): Display 11 lines around the current line
+- *s*(tep): Execute the current line and stop at the first possible location
+- *n*(ext): Continue execution until the next line or end of the function 
+- *b*(reak): Set a breakpoint
+- p(rint): Evaluate the expression at the current level and print its content
+- *r*(eturn): Continue execution until the current function return
+- *q*(uit): quit the debugger
