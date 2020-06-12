@@ -485,3 +485,18 @@ Words I learnt each day on a `vocabulary` session.
 | hoarse      | deep and harsh voice from illness              |
 | mindless    | senseless                                      |
 
+## 12 June ##
+
+| Word        | Meaning                                  |
+|-------------|------------------------------------------|
+| commission  | passing a responsibility to someone else |
+| impressed   | instilled, leave a mark                  |
+| doggedness  | perseverance                             |
+| flag        | piece of clothing representing a country |
+| recluse     | person who live and eat alone            |
+| careen      | lurch                                    |
+| pose        | assume a particular stance               |
+| bionic      | having a electromechanical body part     |
+| emancipated | free from traditional social restraints  |
+| incarcerate | imprison                                 |
+
