@@ -530,3 +530,20 @@ Words I learnt each day on a `vocabulary` session.
 | garbled      | lacking orderly continuity                             |
 | falter       | waver                                                  |
 | suit         | courtship                                              |
+
+## 15 June ##
+
+| Word            | Meaning                                       |
+|-----------------|-----------------------------------------------|
+| inconsequential | little worth or importance                    |
+| malleable       | able to be pounded in various shapes          |
+| restitution     | return                                        |
+| weather         | relative to atmospheric conditions            |
+| destination     | describe where you're going                   |
+| commission      | act of passing responsibility to someone else |
+| careen          | lurch                                         |
+| union           | marriage                                      |
+| shacked         | small rundown building used as a shelter      |
+| eloquent        | articulate                                    |
+
+
