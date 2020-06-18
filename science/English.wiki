@@ -576,3 +576,19 @@ Words I learnt each day on a `vocabulary` session.
 | scorn      | disrespect someone intense dislike              |
 | account    | the act of informing by verbal report           |
 | churn      | container that you fill with  cream and agitate |
+
+## 18 June ##
+
+| Word           | Meaning                                         |
+|----------------|-------------------------------------------------|
+| incarcerated   | jailed                                          |
+| leniency       | mildness                                        |
+| careen         | lurch                                           |
+| ominous        | presaging ill fortune                           |
+| mindless       | without any care                                |
+| terrier        | a type of dog                                   |
+| esteemed       | honored                                         |
+| shack          | small rundown shelter                           |
+| representation | act or serve on behalf or in place of something |
+| churn          | container that you fille with cream             |
+
