@@ -435,7 +435,7 @@ Words I learnt each day on a `vocabulary` session.
 | mindless | senseless,                                    |
 | suit     | outfit                                        |
 | meanders | wander aimlessly                              |
-[|](|) stroke   | pat                                           |
+| stroke   | pat                                           |
 | grudging | reluctant                                     |
 
 ## 07 June ##
@@ -590,5 +590,19 @@ Words I learnt each day on a `vocabulary` session.
 | esteemed       | honored                                         |
 | shack          | small rundown shelter                           |
 | representation | act or serve on behalf or in place of something |
-| churn          | container that you fille with cream             |
+| churn          | container that you file with cream             |
 
+## 19 June ##
+
+| Word       | Meaning                                    |
+|------------|--------------------------------------------|
+| commission | act of passing responsibility              |
+| flag       | piece of clothing that represent a country |
+| suit       | meet                                       |
+| careen     | teetering from side to side                |
+| union      | things coming together                     |
+| expended   | use,                                       |
+| attentive  | heedful                                    |
+| leniency   | spoiled                                    |
+| whittled   | pare or carve away                         |
+| premise    | form the basis of a theory                 |
