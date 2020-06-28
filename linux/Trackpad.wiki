@@ -11,3 +11,10 @@ Section "InputClass"
         Option "Tapping" "on"
 EndSection
 ```
+
+
+## Fix elan trackpad ##
+
+```shell
+i8042.noloop i8042.nomux i8042.nopnp i8042.reset
+```
