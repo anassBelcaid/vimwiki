@@ -708,3 +708,4 @@ Words I learnt each day on a `vocabulary` session.
 | faculty      | body of teachers and adminstrator in school |
 | scorn        | lack of respect with intense dislike        |
 | whittle      | carve away                                  |
+
