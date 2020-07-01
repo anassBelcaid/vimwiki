@@ -719,5 +719,11 @@ Words I learnt each day on a `vocabulary` session.
 | chilly      | cold                                |
 | impress     | leave a positive mark               |
   
-|             |                                     |
+  
+## 01 July ##
 
+| Word      | Meaning                                     |
+|-----------|---------------------------------------------|
+| vagueness | sate of being unclear                       |
+| drape     | the drape of an object, is the way it looks |
+| colony    | group of people who settle in a new place   |
