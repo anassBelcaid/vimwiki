@@ -748,3 +748,14 @@ Words I learnt each day on a `vocabulary` session.
 | dispatcher  | receiving messages and organizing them |
 | indifferent | you don't care much                    |
 | specimen    | sample of something                    |
+
+## 04 July ##
+
+| Word       | Meaning                                  |
+|------------|------------------------------------------|
+| jest       | jokes                                    |
+| lounge     | recline                                  |
+| deck       | platform or a section of floor on a ship |
+| exhilarate | thrill                                   |
+| subtle     | elusive, not obvious                     |
+
