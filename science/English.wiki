@@ -850,3 +850,11 @@ Words I learnt each day on a `vocabulary` session.
 | lounge    | recline, loaf                        |
 | plenteous | there is plenty of it                |
 
+## 15 July ##
+
+| Word      | Meaning                  |
+|-----------|--------------------------|
+| bratwurst | German sausage           |
+| rattle    | rapid series of knocking |
+| stout     | fat, sturdy              |
+
