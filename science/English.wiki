@@ -933,3 +933,11 @@ Words I learnt each day on a `vocabulary` session.
 | swagger   | bluster               |
 | overklook | fail to see something |
 
+## 25 July ##
+
+| Word     | Meaning     |
+|----------|-------------|
+| mutiny   | revolt      |
+| stout    | fat, sturdy |
+| banished | shunned     |
+
