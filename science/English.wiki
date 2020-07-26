@@ -941,3 +941,11 @@ Words I learnt each day on a `vocabulary` session.
 | stout    | fat, sturdy |
 | banished | shunned     |
 
+## 26 July ##
+
+| Word   | Meaning                                      |
+|--------|----------------------------------------------|
+| bay    | inlet along the shoreline of a body of water |
+| chilly | cold                                         |
+| lounge | recline                                      |
+
