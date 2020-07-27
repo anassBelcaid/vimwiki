@@ -949,3 +949,10 @@ Words I learnt each day on a `vocabulary` session.
 | chilly | cold                                         |
 | lounge | recline                                      |
 
+## 27 July ##
+
+| Word     | Meaning                                     |
+|----------|---------------------------------------------|
+| bay      | inlet along the shorline of a body of water |
+| narrated | add commentary                              |
+
